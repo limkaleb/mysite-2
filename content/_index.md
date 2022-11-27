@@ -6,10 +6,6 @@ layout: single
 
 ![profile-picture](/pix/profile_picture.jpg)
 
-## Software Engineer
+### Software Engineer
 
-
-![github](/github.svg)
-![github](/twitter.svg)
-![github](/linkedin.svg)
-![github](/instagram.svg)
+{{< contact >}}

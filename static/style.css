@@ -1,5 +1,5 @@
 body {
-	font-family: sans-serif ;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
 	background: #001321 ;
 	color: #ccc ;
 }
@@ -10,18 +10,23 @@ main {
 }
 
 img {
-	max-width: 50% ;
+	max-width: 25% ;
 	max-height: 200px ;
 	margin: auto ;
 	display: block ;
+	border-radius: 50%;
 }
 
 h1 {
 	text-align: center ;
 }
 
-
 h2 {
+	color: #ccc ;
+	text-align: center ;
+}
+
+h3 {
 	color: #ccc ;
 	text-align: center ;
 }
@@ -29,6 +34,17 @@ h2 {
 footer {
 	text-align: center ;
 	clear: both ;
+}
+
+.contactcontainer {
+	display: flex ;
+	justify-content: center  ;
+}
+
+.icon {
+	max-width: 50% ;
+	padding: 10px ;
+	border-radius: 0;
 }
 
 /* For TAGLIST.HTML */
