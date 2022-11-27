@@ -1,0 +1,11 @@
+baseURL = 'https://limkaleb.github.io/'
+languageCode = 'en-us'
+title = 'Lim Kaleb Octavianus'
+
+theme = 'lugo'
+
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
+  indexarticles = 50
+  taglist = true
